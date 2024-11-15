@@ -1,0 +1,15 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Arquivos de sistema do Windows
+Thumbs.db
+Desktop.ini
+
+# Arquivos de sistema do macOS
+.DS_Store
+
+# Arquivos do Python
+*.pyc
+*.pyo
+*.
